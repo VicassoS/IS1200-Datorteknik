@@ -1,4 +1,4 @@
-# ID1200
+# IS1200
 
 This is documentation of the lab assignments associated with the course "Datorteknik" at KTH. <br />
 The course is an introduction to ... . 
