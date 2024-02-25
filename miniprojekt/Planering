@@ -1,0 +1,14 @@
+
+ORDNING ATT GÖRA SAKER:
+
+        * Röra sig framåt - V
+        * Rotera - V
+        * Kollition - med vägg och sig själv - V 
+        * äta äpplen & äpplen spawnas - V
+        * öka längd på orm när äpplen äts - V
+        * visa score - V
+        * Random seed - V
+        * meny för att visa score och spelet efteråt - V
+        * Flera spelare - V 
+        * Öka maxlängden av en snake - V
+        * Externa knappar - V
